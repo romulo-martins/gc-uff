@@ -1,4 +1,4 @@
-# Gerencia de Configuração 2019.1
+# Gerencia de Configuração 2019.1.
 Trabalho da disciplina Gerencia de Configuração, 2019.1, PPG IC-UFF.
 
 ## Links
