@@ -67,10 +67,10 @@ Go;check;go.sum
 Go;suite;go.sum
 Go;gocheck;go.sum
 Go;spew;go.sum
-Ruby;rspec;gemfiles
-Ruby;Test::Unit;gemfiles
-Ruby;Cucumber;gemfiles
-Ruby;Shoulda;gemfiles
+Ruby;rspec;Gemfile
+Ruby;Test::Unit;Gemfile
+Ruby;Cucumber;Gemfile
+Ruby;Shoulda;Gemfile
 PHP;phpunit;composer.json
 PHP;mockery;composer.json
 PHP;hamcrest-php;composer.json
