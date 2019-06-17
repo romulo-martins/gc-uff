@@ -1,0 +1,110 @@
+,description,full_name,id,language,name,open_issues_count,stargazers_count,test_coverage
+0,Visual Studio Code,microsoft/vscode,41881900,TypeScript,vscode,5927,78225,
+1,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,microsoft/TypeScript,20929025,TypeScript,TypeScript,3951,50415,
+2,One framework. Mobile & desktop.,angular/angular,24195339,TypeScript,angular,2893,49077,
+3,🌈 A UI Design Language,ant-design/ant-design,34526884,TypeScript,ant-design,325,47675,86.2433862433862
+4,Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉,ionic-team/ionic,12256376,TypeScript,ionic,558,38317,
+5,"A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio",denoland/deno,133442384,TypeScript,deno,225,35483,
+6,"The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",grafana/grafana,15111821,TypeScript,grafana,1897,29280,85.1030110935024
+7,The repository for high quality TypeScript type definitions.,DefinitelyTyped/DefinitelyTyped,6093316,TypeScript,DefinitelyTyped,2919,22697,
+8,CLI tool for Angular,angular/angular-cli,36891867,TypeScript,angular-cli,741,21782,
+9,Run VS Code on a remote server.,cdr/code-server,172953845,TypeScript,code-server,286,20415,
+10,"A beautiful replacement for JavaScript's ""alert""",t4t5/sweetalert,24635156,TypeScript,sweetalert,116,20016,
+11,A terminal emulator for the 21st century.,railsware/upterm,32665718,TypeScript,upterm,220,19756,
+12,Cybernetically enhanced web apps,sveltejs/svelte,74293321,TypeScript,svelte,349,18975,
+13,A reactive programming library for JavaScript,ReactiveX/rxjs,32247847,TypeScript,rxjs,312,18836,96.8431601803909
+14,Component infrastructure and Material Design components for Angular,angular/components,49016322,TypeScript,components,1844,18198,
+15,Screenshots with JavaScript,niklasvh/html2canvas,2056312,TypeScript,html2canvas,420,17223,
+16,"NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.",NativeScript/NativeScript,31492490,TypeScript,NativeScript,461,17077,
+17,"Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin)",akveo/ngx-admin,59652928,TypeScript,ngx-admin,257,16868,
+18,"A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",nestjs/nest,80945428,TypeScript,nest,112,16660,94.9533735600658
+19,"Build forms in React, without the tears 😭 ",jaredpalmer/formik,94367677,TypeScript,formik,255,15970,
+20,✍🏻It has never been so easy to document your things!,pedronauck/docz,125596489,TypeScript,docz,207,15380,
+21,A React-based UI toolkit for the web,palantir/blueprint,71939872,TypeScript,blueprint,393,14197,
+22,The de-facto solution to flexible routing with nested views in AngularJS,angular-ui/ui-router,7693799,TypeScript,ui-router,375,13895,
+23,"ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",typeorm/typeorm,52773157,TypeScript,typeorm,785,13481,
+24,🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.,prisma-archive/chromeless,93076012,TypeScript,chromeless,198,13239,
+25,"lightweight, powerful javascript datetimepicker with no dependencies",flatpickr/flatpickr,40511756,TypeScript,flatpickr,194,11805,77.1550057982219
+26,"The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications",linnovate/mean,10219106,TypeScript,mean,11,11765,
+27,Drag and Drop for React,react-dnd/react-dnd,25427817,TypeScript,react-dnd,388,11366,
+28,"Organize world's knowledge, explore connections and curate learning paths",learn-anything/learn-anything,65219131,TypeScript,learn-anything,1,11288,
+29,":rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server",apollographql/apollo-client,52630616,TypeScript,apollo-client,330,11284,96.0602549246813
+30,Oni: Modern Modal Editing - powered by Neovim,onivim/oni,73929422,TypeScript,oni,514,11106,
+31,A WebGL accelerated JavaScript library for training and deploying ML models.,tensorflow/tfjs,123870315,TypeScript,tfjs,462,11086,
+32,"Create graphics with a hand-drawn, sketchy, appearance",pshihn/rough,76342242,TypeScript,rough,13,10848,
+33,The markdown-based note-taking app that doesn't suck.,notable/notable,162815665,TypeScript,notable,254,10541,
+34,"The hottest CLI for React Native, boilerplates, plugins, generators, and more!",infinitered/ignite,51452356,TypeScript,ignite,21,9940,50.1108647450111
+35,":scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance",ustbhuangyi/better-scroll,48212104,TypeScript,better-scroll,44,9730,
+36,"Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",BabylonJS/Babylon.js,11007313,TypeScript,Babylon.js,44,9496,
+37,A terminal for a more modern age,Eugeny/terminus,77213120,TypeScript,terminus,165,9399,
+38,A functional and reactive JavaScript framework for predictable code,cyclejs/cyclejs,26316966,TypeScript,cyclejs,93,9312,
+39,"Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.",howdyai/botkit,47851629,TypeScript,botkit,69,9252,
+40,A starter template for TypeScript and React with a detailed README describing how to use the two together.,microsoft/TypeScript-React-Starter,90786246,TypeScript,TypeScript-React-Starter,204,9217,
+41,React/ApolloGraphQL/Node/Mongo demo written in Typescript,TrillCyborg/fullstack,189890377,TypeScript,fullstack,14,9110,
+42,Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux,microsoft/frontend-bootcamp,172359440,TypeScript,frontend-bootcamp,5,8979,
+43,Browser extension that simplifies the GitHub interface and adds useful features,sindresorhus/refined-github,51769689,TypeScript,refined-github,101,8964,
+44,Capture website screenshots,sindresorhus/pageres,16623069,TypeScript,pageres,17,8820,100.0
+45,A block-styled editor with clean JSON output,codex-team/editor.js,47039255,TypeScript,editor.js,103,8737,
+46,Turbolinks makes navigating your web application faster,turbolinks/turbolinks,50807547,TypeScript,turbolinks,65,8496,
+47,WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.,tensorflow/tfjs-core,99127696,TypeScript,tfjs-core,44,8479,
+48,"JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)",taye/interact.js,6319157,TypeScript,interact.js,20,8408,
+49,Play with neural networks!,tensorflow/playground,55434242,TypeScript,playground,68,8239,
+50,"Make images smaller using best-in-class codecs, right in the browser.",GoogleChromeLabs/squoosh,124303364,TypeScript,squoosh,112,8089,
+51,Token-based AngularJS Authentication,sahat/satellizer,21486287,TypeScript,satellizer,286,8076,48.2871125611746
+52,Library for cross-platform app development.,microsoft/reactxp,85866753,TypeScript,reactxp,50,7739,
+53,"Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.",react-page/react-page,36502584,TypeScript,react-page,88,7613,
+54,"Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included. ",googleapis/google-api-nodejs-client,8608480,TypeScript,google-api-nodejs-client,57,7562,
+55,💬 The most complete chat UI for React Native,FaridSafi/react-native-gifted-chat,46180504,TypeScript,react-native-gifted-chat,53,7507,
+56,Simple collaboration from your desktop,desktop/desktop,58559694,TypeScript,desktop,535,7504,18.2133021780856
+57,🎉 create a single executable out of your node.js apps,nexe/nexe,2857233,TypeScript,nexe,32,7436,
+58,"🌍 GraphQL server for Express, Connect, Hapi, Koa and more",apollographql/apollo-server,56760633,TypeScript,apollo-server,450,7364,
+59,A modest JavaScript framework for the HTML you already have,stimulusjs/stimulus,76694515,TypeScript,stimulus,9,7297,
+60,Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.,wiredjs/wired-elements,101609772,TypeScript,wired-elements,17,7275,
+61,"Create badass, fluid and smooth transition between your website's pages.",barbajs/barba,46077896,TypeScript,barba,19,7248,100.0
+62,A configurable Mobile UI,ant-design/ant-design-mobile,47093357,TypeScript,ant-design-mobile,254,7215,
+63,A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box,electron-userland/electron-builder,35998691,TypeScript,electron-builder,699,7116,
+64,Angular powered Bootstrap,ng-bootstrap/ng-bootstrap,42481664,TypeScript,ng-bootstrap,245,6974,
+65,⚪ SVG-Powered component to easily create placeholder loadings (like Facebook cards loading),danilowoz/react-content-loader,79509385,TypeScript,react-content-loader,4,6932,
+66,:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹,basarat/typescript-book,32623292,TypeScript,typescript-book,96,6799,
+67,Better tools for thought,witheve/Eve,12719776,TypeScript,Eve,72,6790,
+68,"The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular",tinymce/tinymce,467471,TypeScript,tinymce,1097,6680,
+69,Winamp 2 reimplemented for the browser,captbaritone/webamp,26149893,TypeScript,webamp,100,6653,
+70,"🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence",adonisjs/adonis-framework,40772809,TypeScript,adonis-framework,15,6478,95.3629032258064
+71,A terminal for the web,xtermjs/xterm.js,18068542,TypeScript,xterm.js,150,6440,54.1062801932367
+72,":love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.",Foundry376/Mailspring,70777180,TypeScript,Mailspring,768,6419,
+73,"A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.",akveo/eva-icons,155437620,TypeScript,eva-icons,11,6406,
+74,Peer-to-peer data in the browser.,peers/peerjs,7292898,TypeScript,peerjs,36,6223,
+75,deepstream.io server,deepstreamIO/deepstream.io,26390092,TypeScript,deepstream.io,81,6143,84.1093421447882
+76,Functional reactive programming library for TypeScript and JavaScript,baconjs/bacon.js,3605299,TypeScript,bacon.js,59,6122,75.3982300884956
+77,"The complete guide to static typing in ""React & Redux"" apps using TypeScript",piotrwitek/react-redux-typescript-guide,76996763,TypeScript,react-redux-typescript-guide,25,6046,
+78,"High performance, maintainable stylesheets.",linkedin/css-blocks,88215273,TypeScript,css-blocks,111,6043,
+79,JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js,justadudewhohacks/face-api.js,134035452,TypeScript,face-api.js,90,6011,
+80,"📦🚀 Fast, disk space efficient package manager",pnpm/pnpm,50565430,TypeScript,pnpm,285,5963,
+81,"A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team",ionic-team/stencil,82095231,TypeScript,stencil,251,5836,
+82,📘  OpenAPI/Swagger-generated API Reference Documentation,Redocly/redoc,45250726,TypeScript,redoc,212,5823,80.1795416961966
+83,React Hooks — 👍,streamich/react-use,154950925,TypeScript,react-use,59,5730,
+84,State machines and statecharts for the modern web.,davidkpiano/xstate,42455934,TypeScript,xstate,61,5675,
+85,Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.,Chocobozzz/PeerTube,45213667,TypeScript,PeerTube,312,5648,
+86,"WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖",Chatie/wechaty,57602001,TypeScript,wechaty,116,5610,55.7853717026379
+87,Is What It Is,este/este,8230809,TypeScript,este,19,5572,
+88,:star: Vim for Visual Studio Code,VSCodeVim/Vim,46041284,TypeScript,Vim,661,5571,62.8865979381443
+89,"GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop",devhubapp/devhub,75236196,TypeScript,devhub,32,5527,
+90,Animates a numerical value by counting to it,inorganik/countUp.js,15536831,TypeScript,countUp.js,6,5507,
+91,A declarative JavaScript library for application development using cloud services.,aws-amplify/amplify-js,105590837,TypeScript,amplify-js,663,5447,
+92,Simplified HTTP requests,sindresorhus/got,18193978,TypeScript,got,36,5432,98.9174560216509
+93,The Fullstack Tutorial for GraphQL,howtographql/howtographql,93565582,TypeScript,howtographql,39,5360,
+94,👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool),learnapollo/learnapollo,70063086,TypeScript,learnapollo,10,5336,
+95,⚡ Zero config GUI for Jest,Raathigesh/majestic,112321084,TypeScript,majestic,14,5335,
+96,UI Components for Angular,primefaces/primeng,49767244,TypeScript,primeng,882,5328,
+97,":zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync",chimurai/http-proxy-middleware,32219142,TypeScript,http-proxy-middleware,85,5287,93.3712121212121
+98,ECMAScript parsing infrastructure for multipurpose analysis,jquery/esprima,2833537,TypeScript,esprima,98,5237,90.9090909090909
+99,:recycle: React integration for Apollo Client,apollographql/react-apollo,56192185,TypeScript,react-apollo,83,5229,97.194950911641
+100,Libraries & tools for enabling Machine Learning driven user-experiences on the web,guess-js/guess,127689297,TypeScript,guess,6,5193,
+101,Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components,ag-grid/ag-grid,28407613,TypeScript,ag-grid,52,5192,
+102,The official Angular library for Firebase.,angular/angularfire2,49453413,TypeScript,angularfire2,98,5149,
+103,:vertical_traffic_light: An extensible linter for the TypeScript language,palantir/tslint,11672345,TypeScript,tslint,481,5148,
+104,"Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.",microsoft/azuredatastudio,109200851,TypeScript,azuredatastudio,1415,5118,27.3441451161536
+105,Dev tool for creating reusable React components,react-cosmos/react-cosmos,16554395,TypeScript,react-cosmos,11,5095,91.5300546448087
+106,React components for building Microsoft web experiences.,OfficeDev/office-ui-fabric-react,60537144,TypeScript,office-ui-fabric-react,496,5077,
+107,An enterprise-class UI components based on Ant Design and Angular. 🐜 ,NG-ZORRO/ng-zorro-antd,99705100,TypeScript,ng-zorro-antd,197,5053,41.5088213010066
+108,record and replay the web,rrweb-io/rrweb,151843254,TypeScript,rrweb,22,5035,
