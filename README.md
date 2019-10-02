@@ -2,8 +2,7 @@ Scripts and dataset used for paper "What is the adoption level of automated supp
 
 ## Links
 * SAST: https://cbsoft2019.ufba.br/#/sast
-* Proceedings: To be announced
-* Paper: To be announced
+* Paper: https://dl.acm.org/citation.cfm?id=3356325
 * PyGitHub - https://github.com/PyGithub/PyGithub
 * Github's REST API - https://developer.github.com/v3/
 * PyDriller -  https://github.com/ishepard/pydriller
